@@ -1,4 +1,4 @@
-# zip file must be in a working directory "UCI_HAR"
+# zip file with the UCI HAR Dataset
 zip_file <- "getdata_projectfiles_UCI HAR Dataset.zip"
 
 # if the zip file doesn't exist, download it to the wd
